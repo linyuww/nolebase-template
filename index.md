@@ -6,7 +6,7 @@ title: linksnow
 titleTemplate: 记录回忆，知识和畅想的地方
 
 hero:
-  name: g~Nj$3J2^
+  name: blog
   text: 记录回忆，知识和畅想的地方
   tagline: 
   image:
@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /笔记/C++笔记/=运算符重载.html
+      link: /笔记
     - theme: alt
       text: GitHub 上浏览
       link: https://github.com/nolebase/nolebase
