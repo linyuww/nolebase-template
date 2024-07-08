@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /笔记
+      link: /笔记/C++笔记/=运算符重载.html
     - theme: alt
       text: GitHub 上浏览
       link: https://github.com/nolebase/nolebase
