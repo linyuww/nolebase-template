@@ -134,6 +134,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: githubRepoLink },
+      { icon: 'discord', link: discordLink },
     ],
     footer: {
       copyright:
