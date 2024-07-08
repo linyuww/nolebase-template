@@ -17,13 +17,13 @@ sudo cat /etc/mysql/debian.cnf
 ```mysql
 [client]
 host     = localhost
-user     = debian-sys-maint
-password = GVJVTcLmTS4uubBB
+user     = 
+password = 
 socket   = /var/run/mysqld/mysqld.sock
 [mysql_upgrade]
 host     = localhost
-user     = debian-sys-maint
-password = GVJVTcLmTS4uubBB
+user     = 
+password = 
 socket   = /var/run/mysqld/mysqld.sock
 ```
 
@@ -36,7 +36,7 @@ sudo cp /etc/mysql/debian.cnf .my.cnf
 要改变文件的所有者为用户
 
 ```ba
-sudo chown cgz .my.cnf
+sudo chown user .my.cnf
 ```
 
 
