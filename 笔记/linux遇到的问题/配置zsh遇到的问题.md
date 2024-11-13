@@ -63,7 +63,7 @@ source ~/.p10k.zsh
 2.按`:`，输入以下命令即可
 
 ```bash
-w !clip.exe
+:'<,'>w !clip.exe
 ```
 
 如果要复制全部文本则直接输入该命令
