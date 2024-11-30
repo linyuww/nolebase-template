@@ -296,9 +296,6 @@ SA的描述工具：
 
 **解决的任务**，就是将软件需求分析阶段生成的逻辑模型数据流图映射（Mapping）成表达软件系统结构的软件结构图
 
-![image-20241129164607279](C:/Users/86147/AppData/Roaming/Typora/typora-user-images/image-20241129164607279.png)
-
-![image-20241129164619780](C:/Users/86147/AppData/Roaming/Typora/typora-user-images/image-20241129164619780.png)
 
 # 第六章，详细设计
 
@@ -324,7 +321,6 @@ SA的描述工具：
 
 #### 表格工具：判定表、判定树
 
-![image-20241129172007377](C:/Users/86147/AppData/Roaming/Typora/typora-user-images/image-20241129172007377.png)
 
 #### 语言工具：过程设计语言（PDL）
 
@@ -530,7 +526,6 @@ SA的描述工具：
 
 等价划分，错误推测
 
-![image-20241130114414464](C:/Users/86147/AppData/Roaming/Typora/typora-user-images/image-20241130114414464.png)
 
 边界值分析，对等价类划分的补充
 
